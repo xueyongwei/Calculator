@@ -1,0 +1,15 @@
+PODS:
+  - mysql-connector-c (1.0.0)
+  - OHMySQL (0.3.0):
+    - mysql-connector-c (= 1.0.0)
+
+DEPENDENCIES:
+  - OHMySQL
+
+SPEC CHECKSUMS:
+  mysql-connector-c: 6c1e5a80cf2f459f31578ad1cee95bd36c9363a2
+  OHMySQL: b227ffdafaaf1c55e90a31720d502c4387338ffd
+
+PODFILE CHECKSUM: 3a5fce1ed94c3cfab8417356f635722a0f00099c
+
+COCOAPODS: 1.2.0
